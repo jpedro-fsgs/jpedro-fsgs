@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jpedro.fsgs@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/jpedrofsgs/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpedrofsgs/" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5562983250529" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562983250529" alt="WhatsApp"/></a>
 
 ---
 
