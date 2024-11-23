@@ -4,8 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=João Pedro&color=161853&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Cursando Análise e Desenvolvimento de Sistemas<br/> Eu sou desenvolvedor Fullstack</p>
-
 ## Tecnologias
 
 ### Frontend
