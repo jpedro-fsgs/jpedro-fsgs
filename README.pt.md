@@ -1,26 +1,26 @@
 # João Pedro Gonçalves
 
-<img src="rubiks.webp" alt="Illustration" width="140" align="right" />
+<img src="rubiks.webp" alt="Ilustração" width="140" align="right" />
 
-I'm currently studying Information Systems at UFG, with a strong focus on practical learning and real-world problem solving.
+Sou estudante de Sistemas de Informação na UFG e formado em Análise e Desenvolvimento de Sistemas pela PUC Goiás.
 
-I enjoy technology and use this profile to publish study projects focused on backend, automation, integrations, and web applications.
+Gosto de tecnologia e uso este perfil para publicar projetos de estudo em backend, automação, integrações e aplicações web.
 
-My goal is to keep growing across areas such as software engineering, data, security, and infrastructure, strengthening both technical foundations and hands-on experience.
+Meu objetivo é seguir evoluindo em frentes como engenharia de software, dados, segurança e infraestrutura, consolidando base técnica e experiência prática.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:mail.svg?color=%232563EB" alt="Contact" width="18" /> Contact
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%232563EB" alt="Contato" width="18" /> Contato
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpedro.fsgs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpedrofsgs/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpedro.fsgs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpedrofsgs/)
 [![GitHub](https://img.shields.io/badge/GitHub-@jpedro--fsgs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jpedro-fsgs)
 
 ---
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%232563EB" alt="Technologies" width="18" /> Technologies
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%232563EB" alt="Tecnologias" width="18" /> Tecnologias
 
-### <img src="https://api.iconify.design/lucide:code-xml.svg?color=%232563EB" alt="Languages" width="16" /> Languages
+### <img src="https://api.iconify.design/lucide:code-xml.svg?color=%232563EB" alt="Linguagens" width="16" /> Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -31,7 +31,7 @@ My goal is to keep growing across areas such as software engineering, data, secu
 
 ---
 
-### <img src="https://api.iconify.design/lucide:server-cog.svg?color=%232563EB" alt="Backend and APIs" width="16" /> Backend & APIs
+### <img src="https://api.iconify.design/lucide:server-cog.svg?color=%232563EB" alt="Backend e APIs" width="16" /> Backend & APIs
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -50,7 +50,7 @@ My goal is to keep growing across areas such as software engineering, data, secu
 
 ---
 
-### <img src="https://api.iconify.design/lucide:database.svg?color=%232563EB" alt="Databases" width="16" /> Databases
+### <img src="https://api.iconify.design/lucide:database.svg?color=%232563EB" alt="Bancos de Dados" width="16" /> Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -58,7 +58,7 @@ My goal is to keep growing across areas such as software engineering, data, secu
 
 ---
 
-### <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%232563EB" alt="DevOps and Infrastructure" width="16" /> DevOps & Infrastructure
+### <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%232563EB" alt="DevOps e Infraestrutura" width="16" /> DevOps & Infraestrutura
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square)
@@ -67,8 +67,7 @@ My goal is to keep growing across areas such as software engineering, data, secu
 
 ---
 
-### <img src="https://api.iconify.design/lucide:sparkles.svg?color=%232563EB" alt="Automation and AI" width="16" /> Automation & AI
+### <img src="https://api.iconify.design/lucide:sparkles.svg?color=%232563EB" alt="Automação e IA" width="16" /> Automação & IA
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6B7280?style=flat-square)
-
