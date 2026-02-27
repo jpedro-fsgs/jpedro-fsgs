@@ -3,9 +3,11 @@
 <img src="rubiks.webp" alt="Illustration" width="140" align="right" />
 
 Information Systems student at UFG.
-Studying and building mostly around backend development, automation, integrations, and web applications. I care about how systems behave in real conditions, how design decisions affect maintainability, and how small choices accumulate over time.
-This profile reflects an ongoing learning process — experiments, study projects, and work in progress rather than finished products. The goal is building solid foundations and getting more comfortable with complexity over time.
-Open to learning, discussion, and collaboration.
+Working primarily with backend development, automation, systems integration, and web applications. Interested in system behavior under real-world constraints, trade-offs in software design, and the long-term impact of architectural and implementation decisions.
+
+This profile documents an ongoing learning process through experiments, study projects, and incremental work rather than polished end products. The focus is on building strong fundamentals and increasing proficiency in managing complexity.
+
+Open to technical discussions, learning, and collaboration.
 
 ---
 
