@@ -2,11 +2,10 @@
 
 <img src="rubiks.webp" alt="Illustration" width="140" align="right" />
 
-I'm currently studying Information Systems at UFG, with a strong focus on practical learning and real-world problem solving.
-
-I enjoy technology and use this profile to publish study projects focused on backend, automation, integrations, and web applications.
-
-My goal is to keep growing across areas such as software engineering, data, security, and infrastructure, strengthening both technical foundations and hands-on experience.
+Information Systems student at UFG.
+Studying and building mostly around backend development, automation, integrations, and web applications. I care about how systems behave in real conditions, how design decisions affect maintainability, and how small choices accumulate over time.
+This profile reflects an ongoing learning process — experiments, study projects, and work in progress rather than finished products. The goal is building solid foundations and getting more comfortable with complexity over time.
+Open to learning, discussion, and collaboration.
 
 ---
 
